@@ -1,3 +1,6 @@
 [submodule "thirdparty/imgui"]
 	path = thirdparty/imgui
 	url = https://github.com/ocornut/imgui.git
+[submodule "thirdparty/uWebSockets"]
+	path = thirdparty/uWebSockets
+	url = https://github.com/uNetworking/uWebSockets
