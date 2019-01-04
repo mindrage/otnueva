@@ -7,3 +7,6 @@
 [submodule "thirdparty/flatbuffers"]
 	path = thirdparty/flatbuffers
 	url = https://github.com/google/flatbuffers
+[submodule "thirdparty/SDL2"]
+	path = thirdparty/SDL2
+	url = https://github.com/spurious/SDL-mirror

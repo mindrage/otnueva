@@ -15,7 +15,7 @@ The project aims to create a more versatile platform for creating player-crafted
 * A Client/Server synced UI/Interaction system.
 * A open-world focused view give focus on the beautiful mappings of creators.
 * Modular system design to extend with new features.
-* A Bytecode compression for scripts to lower the 
+* A Bytecode compression for scripts to lower the data needed, also to protect the scripts a bit more.
 
 The project will be using:
  - Cmake as a build system.
